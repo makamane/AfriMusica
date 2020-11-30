@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>206585578013-h4f82g0h2vnmnfoni3mc2d8k8hjrgv5d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.206585578013-h4f82g0h2vnmnfoni3mc2d8k8hjrgv5d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCRm_VHkUkVIo8WqUonCzLR8hoR77IZxiw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>206585578013</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BethTrucks.AfriMusica</string>
+	<key>PROJECT_ID</key>
+	<string>afrimusica-c9a8b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>afrimusica-c9a8b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:206585578013:ios:d111df803e5fb6d11bbcf4</string>
+	<key>DATABASE_URL</key>
+	<string>https://afrimusica-c9a8b.firebaseio.com</string>
+</dict>
+</plist>
