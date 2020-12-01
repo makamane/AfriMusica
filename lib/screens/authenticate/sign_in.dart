@@ -63,12 +63,12 @@ class _SignInState extends State<SignIn> {
               physics: BouncingScrollPhysics(),
               child: Column(
                 children: <Widget>[
-                  // Container(
-                  //   child: LoginTextAnim(headingText: 'AfriMusica'),
-                  // ),
-                  // SizedBox(
-                  //   height: 20.0,
-                  // ),
+                  Container(
+                    child: LoginTextAnim(headingText: 'AfriMusica'),
+                  ),
+                  SizedBox(
+                    height: 20.0,
+                  ),
 
                   Padding(
                     padding: EdgeInsets.symmetric(horizontal: 10.0),
